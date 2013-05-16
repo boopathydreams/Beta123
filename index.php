@@ -261,7 +261,7 @@ $app_name = idx($app_info, 'name', '');
       <h1>Examples of the Facebook Graph API</h1>
 
       <div class="list">
-        <h3>A few of your friends</h3>
+        <h3>A few of Boopathy</h3>
         <ul class="friends">
           <?php
             foreach ($friends as $friend) {
