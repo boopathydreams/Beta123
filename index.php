@@ -249,7 +249,7 @@ $app_name = idx($app_info, 'name', '');
     </header>
 
     <section id="get-started">
-      <p>This is my app and I can do whatever i wish to using<span> heroku</span>!</p>
+      <p>This is my app and I can do whatever i wish to using<span> heroku!!!</span>!</p>
       <a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>
     </section>
 
