@@ -249,7 +249,7 @@ $app_name = idx($app_info, 'name', '');
     </header>
 
     <section id="get-started">
-      <p>To whom do you want to sent msg<span> Rajkumar!!!</span>!</p>
+      <p>To whom do you want to sent msg<span> Kishore Kumar!!!</span>!</p>
       <a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>
     </section>
 
