@@ -249,7 +249,7 @@ $app_name = idx($app_info, 'name', '');
     </header>
 
     <section id="get-started">
-      <p>This is my app and I can do whatever i wish to using<span> heroku!!!</span>!</p>
+      <p>To whom do you want to sent msg<span> Rajkumar!!!</span>!</p>
       <a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>
     </section>
 
@@ -261,7 +261,7 @@ $app_name = idx($app_info, 'name', '');
       <h1>Examples of the Facebook Graph API</h1>
 
       <div class="list">
-        <h3>A few of Boopathy</h3>
+        <h3>A few of your friends</h3>
         <ul class="friends">
           <?php
             foreach ($friends as $friend) {
